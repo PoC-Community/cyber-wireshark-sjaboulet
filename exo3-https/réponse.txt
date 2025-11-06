@@ -1,0 +1,1 @@
+Le corps POST est encrypté par TLS (HTTPS). Les identifiants sont à l'intérieur des données encryptées par TLS.
